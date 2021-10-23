@@ -1,0 +1,3 @@
+This is the control file. The first line will be ignored, but the rest must have this format:
+	In File Name: 335_OATPs.fasta
+	Output File Name: August_4 try 2
